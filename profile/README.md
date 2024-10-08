@@ -1,3 +1,1 @@
-#DYNK 
-
 Main landing page.
